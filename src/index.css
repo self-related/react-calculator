@@ -1,0 +1,28 @@
+:root {
+  font-size: 16px;
+  background-color: #404040;
+}
+:root * {
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+
+
+
+/*-----Testing-----*/
+#test-div {
+  width: 700px;
+  min-height: 100px;
+  outline: 1px solid white;
+  margin: 70px auto;
+  padding: 1rem;
+}
+#test-p {
+  text-align: center;
+}
